@@ -1,4 +1,3 @@
 Tugas UAS Matakuliah PWA 
-
-![Uploading image.png…]()
+![Uploading Capture.PNG…]()
 
